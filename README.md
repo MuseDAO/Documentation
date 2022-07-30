@@ -1,2 +1,2 @@
 # Documentation
-Documentation and Planning around MuseDAO
+Documentation and Planning around Muze
